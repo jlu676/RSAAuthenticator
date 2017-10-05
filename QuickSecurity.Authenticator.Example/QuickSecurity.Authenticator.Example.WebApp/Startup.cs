@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace RSAAuthenticator.Example.WebApp
+namespace QuickSecurity.Authenticator.Example.WebApp
 {
     public class Startup
     {

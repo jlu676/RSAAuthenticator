@@ -1,1 +1,1 @@
-# RSAAuthenticator
+# QuickSecurity.Authenticator
