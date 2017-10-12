@@ -14,4 +14,8 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\QuickSecurity.Authenticator\QuickSecurity.Authenticator.csproj" />
+  </ItemGroup>
+
 </Project>
